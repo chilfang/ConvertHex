@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\bin\Debug\netcoreapp3.1\ConvertHex.exe
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\bin\Debug\netcoreapp3.1\ConvertHex.deps.json
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\bin\Debug\netcoreapp3.1\ConvertHex.runtimeconfig.json
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\bin\Debug\netcoreapp3.1\ConvertHex.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\bin\Debug\netcoreapp3.1\ConvertHex.dll
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\bin\Debug\netcoreapp3.1\ConvertHex.pdb
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.dll
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.pdb
+C:\Users\Administrator\source\repos\VS 2019\Evit\ConvertHex\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.genruntimeconfig.cache
